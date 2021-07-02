@@ -7,13 +7,4 @@ Esse repositório contém o código-fonte ministrado na aula Nest.js com Kafka C
 
 ## Rodar a aplicação
 
-Subir o Apache Kafka antes de subir o Nest.js
-
-Execute os comandos:
-
-```bash
-docker-compose up
-```
-
-Acesse no browser http://localhost:3000/products
-
+Acesse as pastas nest e kafka para mais instruções.
