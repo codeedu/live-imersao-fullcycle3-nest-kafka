@@ -17,6 +17,8 @@ Em todos os sistemas operacionais é necessário abrir o programa para editar o 
 
 ## Rodar a aplicação
 
+Subir o Apache Kafka antes de subir o Nest.js.
+
 Execute os comandos:
 
 ```bash
