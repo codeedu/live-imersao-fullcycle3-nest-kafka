@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Repositório do Apache Kafka (Backend)
+Repositório do Apache Kafka
 
 ## Configurar /etc/hosts
 
